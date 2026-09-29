@@ -12,6 +12,6 @@ Commands:
 Installers:
 - Architecture: x64
   InstallerUrl: https://appbank.pw/signum/downloads/windows/Signum-setup.exe
-  InstallerSha256: 03e3024bb1b5da5cd82ff80556cf397cbcfd777ce5338bbc637419e1f0518b8b
+  InstallerSha256: 32e743a054d9d7c46b1baf8808072c1c87ae73fb0fc52e2686ee25078cac432b
 ManifestType: installer
 ManifestVersion: 1.12.0
