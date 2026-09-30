@@ -5,6 +5,7 @@ PackageIdentifier: Signum.Signum
 PackageVersion: 1.1.6
 PackageLocale: ru-RU
 Publisher: Signum
+PublisherUrl: https://appbank.pw/
 PackageName: Signum
 PackageUrl: https://appbank.pw/signum/
 License: Proprietary
