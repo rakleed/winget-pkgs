@@ -4,7 +4,7 @@
 PackageIdentifier: Signum.Signum
 PackageVersion: 1.1.6
 PackageLocale: ru-RU
-Publisher: AppBank
+Publisher: Signum
 PackageName: Signum
 License: Proprietary
 ShortDescription: Install and sign iPhone apps using your Apple ID.
